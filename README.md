@@ -1,4 +1,3 @@
-# Gabriel Dantas
 ### Making developers’ lives better using yaml
 
 ⤷ I'm Gabriel Dantas 🚀
